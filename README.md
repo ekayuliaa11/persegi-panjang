@@ -15,3 +15,13 @@
     cout<<"luas persegi panjang adalah "<<luas;
     return 0;
     }
+
+
+
+
+
+
+
+
+# hasil program
+![img](https://github.com/ekayuliaa11/persegi-panjang/blob/master/persegi%20panjang.png?raw=true)
